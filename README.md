@@ -1,2 +1,1 @@
-# javascript.js
-javascript tutorial
+Calculator using javascript
